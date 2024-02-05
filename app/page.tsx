@@ -15,12 +15,12 @@ export default function Page() {
           <div className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"/>
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal ${lusitana.className}`}>
             <strong>Welcome to Acme.</strong> Use the following credentials{' '}
-            <p>
+            <span>
               user@nextmail.com  
-            </p>
-            <p>
+            </span><br />
+            <span>
             123456
-            </p>
+            </span>
             , brought to you by Chinmay.
           </p>
           <Link
