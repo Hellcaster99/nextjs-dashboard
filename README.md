@@ -4,6 +4,8 @@ Follow these steps:
 
 2) Open this file location in terminal and run "npm install"
 
-3) In the terminal run "npm run dev"
+3) Check the .env file for AUTH_URL, should be that of localhost
+
+4) In the terminal run "npm run dev"
 
 
