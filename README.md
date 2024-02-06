@@ -4,6 +4,6 @@ Follow these steps:
 
 2) Open this file location in terminal and run "npm install"
 
-3) in the terminal run "npm run dev"
+3) In the terminal run "npm run dev"
 
 
